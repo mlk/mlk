@@ -9,8 +9,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
 --> 
 
-- 🔭 I’m currently working on [@eeveebank](https://github.com/eeveebank), an awesome start-up bank.
-- 🌱 I’m currently learning pistol shooting. It ain't tech, but I need a break from tech.
+- 🔭 I’m currently working on at [T. Rowe Price](https://www.troweprice.com/) Developer Services team. 
+  - Previously:
+    - [@eeveebank](https://github.com/eeveebank)
+    - [@InfinityWorks](https://github.com/InfinityWorks)
+    - [@Cision](https://github.com/Cision)
+- 🌱 I’m currently learning pistol & shotgun (clays) shooting. It ain't tech, but I need a break from tech.
 - 💬 Ask me about [#java](https://www.java.com/).
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: The Geo Cities-ification of GitHub makes me very happy.
