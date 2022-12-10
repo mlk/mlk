@@ -14,7 +14,7 @@ Here are some ideas to get you started:
     - [@eeveebank](https://github.com/eeveebank)
     - [@InfinityWorks](https://github.com/InfinityWorks)
     - [@Cision](https://github.com/Cision)
-- 🌱 I’m currently learning pistol & shotgun (clays) shooting. It ain't tech, but I need a break from tech.
+- 🌱 I’m currently learning rifle & shotgun (clays) shooting. It ain't tech, but I need a break from tech.
 - 💬 Ask me about [#java](https://www.java.com/).
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: The Geo Cities-ification of GitHub makes me very happy.
