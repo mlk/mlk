@@ -15,6 +15,6 @@ Here are some ideas to get you started:
     - [@InfinityWorks](https://github.com/InfinityWorks)
     - [@Cision](https://github.com/Cision)
 - 🌱 I’m currently learning rifle & shotgun (clays) shooting. It ain't tech, but I need a break from tech.
-- 💬 Ask me about [#java](https://www.java.com/).
+- 💬 Ask me about [#java](https://www.java.com/) or [#kotlin](https://kotlinlang.org/).
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: The Geo Cities-ification of GitHub makes me very happy.
