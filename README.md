@@ -8,10 +8,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 --> 
 
-- 🔭 I’m currently working on at [T. Rowe Price](https://www.troweprice.com/) Developer Services team. 
+- 🔭 I’m currently working at [T. Rowe Price](https://www.troweprice.com/) in the Developer Services team.<br>Developer Serivce is a internal "consultancy" to help developers accelerate. My role is to automate away paperwork.
   - Previously:
-    - [@eeveebank](https://github.com/eeveebank)
-    - [@InfinityWorks](https://github.com/InfinityWorks)
+    - [@Mettle](https://github.com/eeveebank)<br>My role was to implement the Open Banking APIs at Mettle.
+    - [@InfinityWorks](https://github.com/InfinityWorks)<br>Infinity Works (now part of accenture) is a consultancy. At IWC I worked with the Home Office, Debt Management Office, Sainsbury’s and BP. 
     - [@Cision](https://github.com/Cision)
 - 🌱 I’m currently learning Clay Pigeon shooting. In particular [Trap](https://en.wikipedia.org/wiki/Trap_shooting). I'm terrible at it, but it is a lot of fun.
 - 💬 Ask me about [#java](https://www.java.com/) or [#kotlin](https://kotlinlang.org/).
